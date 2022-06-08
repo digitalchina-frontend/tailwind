@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:digitalchina-frontend/digitalchina-frontend.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:digitalchina-frontend/tailwindcss.git master:gh-pages
+git push -f git@github.com:digitalchina-frontend/tailwind.git master:gh-pages
 
 cd -

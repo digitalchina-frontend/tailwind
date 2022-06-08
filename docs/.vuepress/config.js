@@ -1,6 +1,6 @@
 module.exports = {
-  base: "/tailwindcss/",
-  title: "tailwindcss",
+  base: "/tailwind/",
+  title: "tailwind",
   description: "2d",
   serviceWorker: true,
   themeConfig: {},
