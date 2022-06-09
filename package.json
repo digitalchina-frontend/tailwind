@@ -11,6 +11,7 @@
     "deploy": "sh ./deploy.sh"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "3.0.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vuepress": "1.9.7"
   }
