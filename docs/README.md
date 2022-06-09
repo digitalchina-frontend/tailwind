@@ -1,3 +1,9 @@
 # Hello TailwindCSS
 
-<div class="bg-indigo-400">Hello TailwindCSS</div>
+<Card/>
+
+::: details 点击查看代码
+
+<<< @/docs/.vuepress/components/Card.vue
+
+:::
